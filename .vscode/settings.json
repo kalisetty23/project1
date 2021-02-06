@@ -1,0 +1,14 @@
+{
+    "cSpell.enableFiletypes": [
+        "code-runner-output",
+        "razor",
+        "ruby",
+        "sql",
+        "vue",
+        "xml"
+    ],
+    "cSpell.language": "en,en-US",
+    "cSpell.words": [
+        "styleview"
+    ]
+}
